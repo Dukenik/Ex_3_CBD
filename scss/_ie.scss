@@ -1,0 +1,16 @@
+.ie11,
+.ie10,
+.ie9,
+.ie8 {
+    .intro__caption { width: 100%; }
+    .menu__btn { line-height: 1; }
+    .login-form__btn { width: 35px; }
+    .contact-form__btn { transform: translateY(-2px); }
+    .products-carousel .slick-prev { transform: translateX(-88px); }
+    .testimonials { display: block; text-align: center; }
+    .testimonials__rating { margin: 0 auto; }
+}
+.ie10 {
+    .intro__start-shopping { display: block; }
+    .product__btn { margin: 0 0 0 auto; }
+}
